@@ -1,10 +1,10 @@
 # MAL Video Search
-Web extension that adds video search buttons to anime lists on MAL.
+Browser extension that adds video search buttons to anime lists on MAL.
 
-![screenshot](screenshots/screenshot_0.png){:style="width:45%"} ![screenshot](screenshots/screenshot_1.png){:style="width:45%"}
+<img src="screenshots/screenshot_0.png" width="45%"> <img src="screenshots/screenshot_1.png" width="45%">
 
 ## Usage
-**By default, the extension will use cruncheroll.com. To add other sites, you have to take the following steps:**
+**By default, the extension will use crunchyroll.com. To add other sites, you have to take the following steps:**
 
 - Go to your favorite anime-hosting website
 - Use search function
@@ -15,9 +15,10 @@ Web extension that adds video search buttons to anime lists on MAL.
 **Example:**
 
 - Search for 'Gintama' on [crunchyroll.com](https://www.crunchyroll.com/search?q=gintama)
-- The results page URL will be **'https://www.crunchyroll.com/search?q=gintama'**
-![screenshot](screenshots/screenshot_2.png){:style="width:45%"}
-- Paste **'https://www.crunchyroll.com/search?q='** to the **'New search URL'** field in the extension's preferences and click the 'Add' button.
- ![screenshot](screenshots/screenshot_3.png){:style="width:45%"} ![screenshot](screenshots/screenshot_4.png){:style="width:45%"}
+- The results page URL will be https://www.crunchyroll.com/search?q=gintama
+- <img src="screenshots/screenshot_2.png" width="45%">
+- Paste https://www.crunchyroll.com/search?q= to the **'New search URL'** field in the extension's preferences and click the **'Add'** button.
+- <img src="screenshots/screenshot_3.png" width="45%"> <img src="screenshots/screenshot_4.png" width="45%">
 
-
+## Links
+[AMO page](https://addons.mozilla.org/en-US/firefox/addon/mal-video-search/)
