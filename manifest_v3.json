@@ -31,6 +31,7 @@
         }
     ],
     "permissions": ["storage"],
+    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAotpw+BCxYiaFJA6AXN3VvVpgwUKJFH3Ecv9pUlsdhcwzHk5ADrPXp6cfGpRB0abUwTojrqOx0rIqNJs4GPF8PrxIUTJ0ir9LZamUEwjfuS3de6it0z9o3mL8V6z0/7InhZKhU4+/XNmS+EYgkzunhLqj0PvhtxncwkWLwi6Fku1c8txGWGBf7pMfLdFuxx8KewbXfGA3VGmabK2l66YZKKb4/YLzANUdmSAckx4XmE9LIZ6SkYj7yKu9bkQ3XT0ohtcUg29R3dyYn+B4+mvj2yXCRdEbRVEwAoJmO1U35p9H6oRSGizE/pfCMIcjcLf7qPd7OSAnTeprgAI3g3FKGQIDAQAB",
     "browser_specific_settings": {
         "gecko": {
             "id": "malvs_yancharkin@github.com"
