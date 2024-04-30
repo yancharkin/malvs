@@ -20,5 +20,6 @@ Browser extension that adds video search buttons to anime lists on MAL.
 - Paste https://www.crunchyroll.com/search?q= to the **'New search URL'** field in the extension's preferences and click the **'Add'** button.
 - <img src="screenshots/screenshot_3.png" width="45%"> <img src="screenshots/screenshot_4.png" width="45%">
 
-## Links
-[AMO page](https://addons.mozilla.org/en-US/firefox/addon/mal-video-search/)
+## Install
+- [(Firefox) AMO page](https://addons.mozilla.org/en-US/firefox/addon/mal-video-search/)
+- [Chrome Web Store page](https://chromewebstore.google.com/detail/mal-video-search/fapinhdkeglccmjclcpbdcekhmibohji)
