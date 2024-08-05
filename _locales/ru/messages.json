@@ -1,0 +1,38 @@
+{
+    "authorName": {
+        "message": "Иван Янчаркин",
+        "description": "Имя разработчика."
+    },
+    "extensionDescription": {
+        "message": "Добавляет кнопки поиска видео в списки аниме на MAL.",
+        "description": "Описание расширения."
+    },
+    "lblActive": {
+        "message": "Активные поисковые URL",
+        "description": "Текст над списком активных поисковых URL."
+    },
+    "lblInactive": {
+        "message": "Неактивные поисковые URL",
+        "description": "Текст над списком неактивных поисковых URL."
+    },
+    "inputNewUrl": {
+        "message": "Новый поисковый URL",
+        "description": "Заполнитель для поля куда пользователь вводит новый поисковый URL."
+    },
+    "btnAddToActive": {
+        "message": "Добавить",
+        "description": "Текст на кнопке."
+    },
+    "btnRemoveFromInactive": {
+        "message": "Удалить",
+        "description": "Текст на кнопке."
+    },
+    "InvalidUrl": {
+        "message": "Неправильный URL!",
+        "description": "Сообщение о неправильном URL."
+    },
+    "NothingSelected": {
+        "message": "Ничего не выбрано!",
+        "description": "Сообщение о том, что ничего не выбрано."
+    }
+}

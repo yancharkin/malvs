@@ -1,0 +1,63 @@
+//:root {
+//    color-scheme: only light dark;
+//}
+//@media (prefers-color-scheme: dark) {
+//    @-moz-document url-prefix() {
+//        :root {
+//            background-color: rgb(35, 34, 43);
+//        }
+//    }
+//}
+body {
+    padding: 5px;
+}
+button {
+    text-align: center;
+}
+#donate {
+    content:url('../assets/donate.png');
+    padding-top: 10px;
+    width: 5rem;
+}
+#donate:hover {
+    content:url('../assets/donate-highlighted.png');
+}
+a {
+    align-self: flex-start;
+}
+.grid {
+    display: grid;
+    grid-template-columns: auto min-content auto;
+    grid-gap: 5px;
+}
+.grid-item1, .grid-item3 {
+    grid-column-start: 1;
+    text-align: center;
+}
+.grid-item2, .grid-item5 {
+    grid-column-start: 3;
+    text-align: center;
+}
+.grid-item3 {
+    grid-row-start: 2;
+    grid-row-end: 4;
+}
+.grid-item4 {
+    align-self: center;
+    display: grid;
+    grid-gap: 5px;
+    grid-row-start: 2;
+    grid-row-end: 4;
+}
+.grid-item6 {
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 3;
+    grid-row-end: 4;
+}
+.grid2 {
+    display: grid;
+    grid-template-columns: auto min-content;
+    grid-gap: 5px;
+    padding-top: 20px;
+}

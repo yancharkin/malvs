@@ -1,0 +1,38 @@
+{
+    "authorName": {
+        "message": "Ivan Yancharkin",
+        "description": "Name of the developer."
+    },
+    "extensionDescription": {
+        "message": "Adds video search buttons to anime lists on MAL.",
+        "description": "Description of the extension."
+    },
+    "lblActive": {
+        "message": "Active search URLs",
+        "description": "Text above the active list."
+    },
+    "lblInactive": {
+        "message": "Inactive search URLs",
+        "description": "Text above the inactive list."
+    },
+    "inputNewUrl": {
+        "message": "New search URL",
+        "description": "Placeholder for the field where a user inputs a new search URL."
+    },
+    "btnAddToActive": {
+        "message": "Add",
+        "description": "Text on a button."
+    },
+    "btnRemoveFromInactive": {
+        "message": "Remove",
+        "description": "Text on a button."
+    },
+    "InvalidUrl": {
+        "message": "Invalid URL!",
+        "description": "Invalid URL message."
+    },
+    "NothingSelected": {
+        "message": "Nothing selected!",
+        "description": "Nothing selected message."
+    }
+}
