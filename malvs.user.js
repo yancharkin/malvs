@@ -3,6 +3,7 @@
 // @version     1.0
 // @description Adds video search buttons to anime lists on MAL.
 // @author      Ivan Yancharkin
+// @license     MIT
 // @namespace   http://github.com/yancharkin/malvs
 // @homepageURL https://github.com/yancharkin/malvs
 // @supportURL  https://github.com/yancharkin/malvs/issues
