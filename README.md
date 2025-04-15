@@ -12,6 +12,9 @@ A userscript that adds video search buttons to anime lists on MyAnimeList (MAL).
 - **Browsers:** Firefox, Google Chrome, Qutebrowser.
 - **Extensions:** Violentmonkey,  Tampermonkey.
 
+### Available On:
+- [Greasy Fork](https://greasyfork.org/en/scripts/532958-mal-vs)
+
 ## Usage:
 
 - Go to your favorite anime-hosting website.
